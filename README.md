@@ -46,4 +46,4 @@ Minha paixão por inovação me levou ao desenvolvimento mobile. Trabalhei com K
 Minha afinidade com a lógica e arquitetura de sistemas me direcionou ao desenvolvimento Back-End. Dominei tecnologias como Java, Spring e MySQL, criando APIs robustas e escaláveis que entregam valor e eficiência.
 
 🌟 Impacto e Inclusão
-Projetos voluntários, como no PCDs Online Brasil, reforçaram minha visão de que a tecnologia deve ser inclusiva e acessível. Essas experiências me motivam a criar soluções que realmente fazem a diferença.;
+Projetos voluntários, como no PCDs Online Brasil, reforçaram minha visão de que a tecnologia deve ser inclusiva e acessível. Essas experiências me motivam a criar soluções que realmente fazem a diferença.
